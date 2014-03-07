@@ -5,7 +5,7 @@ RK2928 - Iball 6318i--> device tree
 
 please note :
 ==============
-with present device tree u can build recovery only ..................
+with present device tree u can build recovery only ..................    main aim fix reboot to system issue and some mount errors 
 
 help needed with this 
 ======================
