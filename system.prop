@@ -1,3 +1,37 @@
 #
 # system.prop for rk2928sdk
 #
+ro.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+persist.sys.usb.config=adb
+
+ro.product.cpu.abi=armeabi-v7a
+ro.product.cpu.abi2=armeabi
+
+ro.product.locale.language=en
+
+ro.wifi.channels=
+ro.board.platform=rk2928
+
+ro.build.characteristics=tablet
+ro.cm.device=rk2928sdk
+
+#
+# ADDITIONAL_BUILD_PROPERTIES
+#
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.com.google.clientidbase=android-google
+ro.com.android.wifi-watchlist=GoogleGuest
+ro.setupwizard.enterprise_mode=1
+ro.com.android.dateformat=MM-dd-yyyy
+ro.com.android.dataroaming=false
+persist.sys.usb.config=mtp
+wifi.interface=wlan0
+ro.product.usbfactory=iBall   Slide 6318i
+ro.ril.hsxpa=1
+ro.ril.gprsclass=10
+ro.adb.qemud=1
+dalvik.vm.lockprof.threshold=500
+net.bt.name=iBall
