@@ -12,7 +12,7 @@ help needed with this
 need to determine exact partition size 
 
 ======================================================
-BOARD_BOOTIMAGE_PARTITION_SIZE := ?????(0x01000000)
+BOARD_BOOTIMAGE_PARTITION_SIZE := ?????(0x01000000)                                                                                      
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := ?????(0x02000000)
 
 =======================================================
