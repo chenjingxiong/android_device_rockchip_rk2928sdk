@@ -33,6 +33,7 @@ BOARD_FLASH_BLOCK_SIZE := 4096
 
 #FERGY: This is for prebuilt kernel only... Once You get recovery working,
 # We can replace this with original kernel, so leave it by then...
+# prebuilt kernel causes recovery to not boot ........ 
 TARGET_PREBUILT_KERNEL := device/rockchip/rk2928sdk/kernel
 
 BOARD_HAS_NO_SELECT_BUTTON := true
