@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rk292xnand_ko.ko:root/rk292xnand_ko.ko \
     $(LOCAL_PATH)/ueventd.rk2928board.rc:root/ueventd.rk2928board.rc \
     $(LOCAL_PATH)/ueventd.rc:root/ueventd.rc \
-    $(LOCAL_PATH)/ueventd.goldfish.rc:root/ueventd.goldfish.rc
+    
 
 
 $(call inherit-product, build/target/product/full.mk)
